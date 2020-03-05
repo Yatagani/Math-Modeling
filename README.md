@@ -2,7 +2,7 @@
 
 Mathematic Modeling Course by Gradov.V.M
 
-  Bauman Moscow State Technical University (6th semester)
+      Bauman Moscow State Technical University (6th semester)
 
 
 |List of Labs| Stage|
